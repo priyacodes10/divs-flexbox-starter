@@ -115,7 +115,7 @@ body {
   justify-content: space-between;
 }
 
-.div-1, .div-2, .div-3 {
+.html, .css, .code {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
   line-height: 1.5em;
